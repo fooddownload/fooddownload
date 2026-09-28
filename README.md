@@ -1,16 +1,16 @@
-## Hi there 👋
+Echo"Description"
+Greetings👍
 
-<!--
-**fooddownload/fooddownload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+THINGS ABOUT ME->
 
-Here are some ideas to get you started:
+I am Dr.doggie i use arch btw currently 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love Linux I have a fork of a fastfetch config (you should check that out)
+I know basic HTML. Linux is cool
+
+I don't like Microsoft(Microslop & Microslop Winslop11)
+I use Github for mainly for configs(configurations) and Linux stuff
+and desktop wallpapers🖼️ too!
+
+I want to make a Linux Distro(but i do not know programming stuff)
+I have an Idea for a Linux Distro in mind.
